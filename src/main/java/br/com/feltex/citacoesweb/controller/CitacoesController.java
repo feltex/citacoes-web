@@ -17,7 +17,7 @@ import java.util.Scanner;
 
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/citacoes")
 public class CitacoesController {
 
     private final List<Citacao> citacoes = new ArrayList<>();
