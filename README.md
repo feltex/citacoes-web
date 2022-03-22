@@ -1,6 +1,6 @@
 # citacoes-web
 
-  Projeto que exibe citaçẽs de filósofos famosos.
+  Projeto que exibe citaçẽs de filósofos famosos. Aprenda como criar uma documentação Open API (Swagger) para a sua Rest API.
   
   
   ## Tecnologias
