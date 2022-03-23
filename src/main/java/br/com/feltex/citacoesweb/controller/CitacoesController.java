@@ -1,6 +1,7 @@
 package br.com.feltex.citacoesweb.controller;
 
 import br.com.feltex.citacoesweb.model.citacao.Citacao;
+import io.swagger.v3.oas.annotations.Operation;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -27,6 +28,7 @@ public class CitacoesController {
     }
 
     @GetMapping
+    @Operation(summary = "Aprenda novas frases com filósofos")
     public ResponseEntity<Citacao> lerCitacao() {
         return new ResponseEntity<>(getCitacao(), HttpStatus.OK);
     }
