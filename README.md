@@ -19,4 +19,4 @@
 
 ## 📺 Link dos vídeos
 
- [Criando uma Open API]()
+ [Criando uma Open API](https://youtu.be/uQh6PNLZzug)
