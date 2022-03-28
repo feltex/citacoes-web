@@ -16,7 +16,6 @@
 
 
 
-
 ## 📺 Link dos vídeos
 
  [Criando uma Open API](https://youtu.be/uQh6PNLZzug)
